@@ -1,4 +1,15 @@
 theme: jekyll-theme-modernist
 
-title: Jianping Fu's homepage
-subtitle: welcome
+title: Welcome to Jianping Fu's Homepage
+subtitle: welcome to my homepage
+description: Teacher.
+creator: <a href="http://onev.cat">@onevcat</a>
+
+url: "https://amazingchen.github.io/#blog"
+
+permalink: /:year/:month/:title/
+
+# Navigation buttons in the front page.
+nav:
+    - {title: Projects, description: My Projects, url: 'https://github.com/AmazingChen/VHabit'}
+
